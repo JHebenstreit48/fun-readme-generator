@@ -54,7 +54,7 @@ inquirer.prompt ([
 ])
 // TODO: Create a function to write README file
 
-// .then((answers) => console.log(answers))
+.then((answers) => console.log(answers))
 // function writeToFile(fileName, data) {}
 
 .then((answers) => {
