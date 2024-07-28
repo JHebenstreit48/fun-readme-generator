@@ -39,6 +39,9 @@ https://stackoverflow.com/questions/54083539/how-to-create-a-select-drop-down-us
 https://stackoverflow.com/questions/72788530/what-npm-command-creates-a-dist-folder-in-nodejs
 https://www.npmjs.com/package/inquirer#question
 https://bootcampspot.instructure.com/courses/6643/external_tools/313
+https://choosealicense.com/
+https://shields.io/
+https://github.com/nrwl/nx/issues/4593
 
 ![Xpert emample](assets/images/Xpert.png)
 

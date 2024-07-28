@@ -39,7 +39,8 @@ inquirer.prompt ([
     {
         type: 'list',
         message: 'Which license was used on your project?',
-        name: 'licenseInformation'
+        name: 'licenseInformation',
+        choices: ['MIT', 'GNU GPLv3', 'Rails', 'Apache License 2.0', 'ISC']
     },
     {
         type: 'input',
@@ -57,9 +58,9 @@ inquirer.prompt ([
 .then((answers) => console.log(answers))
 // function writeToFile(fileName, data) {}
 
-.then((answers) => {
+// .then((answers) => {
     
-})
+// })
 
 // TODO: Create a function to initialize app
 function init() {}
