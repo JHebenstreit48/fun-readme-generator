@@ -55,13 +55,14 @@ inquirer.prompt ([
 ])
 // TODO: Create a function to write README file
 
-.then((answers) => console.log(answers))
-// function writeToFile(fileName, data) {}
+// .then((answers) => console.log(answers))
 
-// .then((answers) => {
-    
-// })
+.then((answers) => {
+    const templateREADME = generateHTML(answers);
 
+fs.writeToFile(`${answers.projectName}.md`, templateREADME, (err) => err ? console.error(err) : console.log('Success!'))
+
+})
 // TODO: Create a function to initialize app
 function init() {}
 
