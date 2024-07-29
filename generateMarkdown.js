@@ -71,10 +71,13 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -86,7 +89,7 @@ ${data.usageInstructions}
 
 ${renderLicenseSection(data.licenseInformation)}
 
-## Contribution Instructions
+## Contributions
 
 ${data.contributions}
 
