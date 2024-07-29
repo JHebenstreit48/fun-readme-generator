@@ -29,7 +29,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 Resources used were:
 
-Zoom recordings of the class, NPM, Xpert AI Learning Assistant, Google search, StackOverflow, a blog, worked with a friend to help me better understand and explain why I was getting certain errors.
+Zoom recordings of the class, NPM, Xpert AI Learning Assistant, Google search, StackOverflow, a blog, worked with a friend to help me better understand and explain why I was getting certain errors. My classmate XiangZhen Wu (Jason) also helped me understand an error I was having with my code.
 
 Links for resources used:
 https://blog.bolajiayodeji.com/how-to-create-an-automated-profile-readme-using-nodejs-and-github-actions
