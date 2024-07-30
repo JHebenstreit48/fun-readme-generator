@@ -81,6 +81,8 @@ function init() {
     });
   }
 
+  If you have any questions, you can reach me at [${data.email}](mailto:${data.email}). You can also find more of my work at [${data.github}](https://github.com/${data.github}).
+
   Some of the links previously mentioned were given to me from Bryce. His explains also better helped me understand why I was stuck and that it seemed I was on the right track but missing something. I certainly understand why he gave said suggestions.
 
 
